@@ -1,7 +1,0 @@
-# .gitignore
-
-# Ignore all files in dist/ directory
-dist/*
-
-# Except for Hansheng.py file
-!dist/Hansheng.py
